@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/krash76/working-enviroment_AJShw1/issues"
   },
-  "homepage": "https://github.com/krash76/working-enviroment_AJShw1/index.html",
+  "homepage": "https://github.com/krash76/working-enviroment_AJShw1#index",
   "dependencies": {
     "core-js": "^3.20.3",
     "http-server": "^14.1.0"
