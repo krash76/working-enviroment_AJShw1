@@ -1,0 +1,33 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "\"Browser based game\"",
+  "main": "index.js",
+  "scripts": {
+    "serve": "http-server src",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krash76/working-enviroment_AJShw1.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "krash76",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krash76/working-enviroment_AJShw1/issues"
+  },
+  "homepage": "https://github.com/krash76/working-enviroment_AJShw1/index.html",
+  "dependencies": {
+    "core-js": "^3.20.3",
+    "http-server": "^14.1.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.16.8",
+    "@babel/core": "^7.16.7",
+    "@babel/preset-env": "^7.16.8"
+  }
+}
